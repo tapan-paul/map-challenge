@@ -8,6 +8,12 @@ A professional coding challenge implementation featuring a responsive map interf
 - **Tools:** Vite, Geocoding via Nominatim API.
 
 ## 🛠️ Setup Instructions
+Follow these steps to get the project running on your local machine.
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/tapan-paul/map-challenge.git
+cd map-challenge
 
 ### Backend
 1. `cd backend`
