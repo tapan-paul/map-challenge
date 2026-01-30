@@ -7,6 +7,8 @@ A professional coding challenge implementation featuring a responsive map interf
 - **Backend:** Node.js, Express (ES Modules), SQLite3.
 - **Tools:** Vite, Geocoding via Nominatim API.
 
+---
+
 ## 🛠️ Setup Instructions
 Follow these steps to get the project running on your local machine.
 
@@ -14,6 +16,8 @@ Follow these steps to get the project running on your local machine.
 ```bash
 git clone https://github.com/tapan-paul/map-challenge.git
 cd map-challenge
+```
+---
 
 ### Backend
 1. `cd backend`
